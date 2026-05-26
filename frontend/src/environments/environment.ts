@@ -2,5 +2,5 @@
 export const environment = {
   production: true,
   apiBase: 'https://sprint-estimate-backend.onrender.com',
-  wsBase: 'ws://sprint-estimate-backend.onrender.com',
+  wsBase: 'wss://sprint-estimate-backend.onrender.com',
 };
